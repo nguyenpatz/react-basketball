@@ -4,9 +4,9 @@ const Info = () => {
 	return (
 		<div className="info-container">
 			<h2>
-				aces brother basketball
+				brothers aces basketball
 				<br/>
-				<span>endless passion</span>
+				<span>đam mê bất tận</span>
 			</h2>
 
 		</div>
